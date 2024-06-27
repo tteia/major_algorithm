@@ -2,7 +2,7 @@ package A3bfs;
 
 import java.util.*;
 
-// 배열을 한나 만들어서, 이 배열이 start node에서 얼마나 떨어져있는지 숫자값 담기
+// 배열을 하나 만들어서, 이 배열이 start node에서 얼마나 떨어져있는지 숫자값 담기
 public class B2Basic2 {
     static List<List<Integer>> adjList;
     static boolean[] visited;
@@ -44,6 +44,7 @@ public class B2Basic2 {
             }
         }
     }
+
 
 
 }
